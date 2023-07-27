@@ -1,0 +1,199 @@
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'Poppins';
+}
+
+.container{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+h2.red{
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: #F75C4E;
+}
+
+h1.black{
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    color: black;
+}
+
+#header {
+    font-family: 'Poppins';
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #070F18;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#menu{
+    text-align: right;
+}
+
+#menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#menu li{
+    display: inline-block;
+    margin-left: 20px;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 52px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+#headerText h1{
+    font-family: 'Poppins';
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 83px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#botaoLink{
+    background: #1F7CFF;
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 25px;
+}
+
+#foto {
+    margin-left: 20px;
+    width: 100%;
+}
+
+#clientes{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.txt{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+#services{
+    text-align: center;
+}
+
+#services p{
+    margin-bottom: 50px;
+}
+
+.centro{
+    text-align: center;
+}
+
+h3.centro{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+p.centro{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+#contato{
+    margin-top: 100px;
+    
+}
+
+#contatoImg img{
+    width: 100%;
+}
+
+#formulario{
+    text-align: left;
+    margin-left: 75px;
+    font-size: small;
+}
+
+#formh1{
+    width: 386px;
+    height: 54px;
+    margin: 0;
+}
+
+#caixa{
+    width: 300px;
+    height: 10px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: rgb(230, 230, 230);
+    border: 0;
+}
+
+#botao{
+    width: 180px;
+    height: 40px;
+    top: 1662px;
+    left: 813px;
+    border-radius: 50px;
+    background: #1F7CFF;
+    color: white;
+    border: 0;
+    margin-bottom: 30px;
+}
+
+#portifolio{
+    margin-top: 80px;
+}
+
+#portifolio h1{
+    margin-top: 0;
+}
+
+.pasta img{
+    width: 100%;
+}
+
+.pasta{
+    padding-left: 15px;
+}
